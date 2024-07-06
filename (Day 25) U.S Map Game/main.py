@@ -37,7 +37,7 @@ df = pandas.DataFrame(data_dict)
 df.to_csv("states_to_learn.csv")
 
 write_turtle.goto(x=-190, y=0)
-if len(correct_guesses) == 1:
+if len(correct_guesses) == 50:
     write_turtle.write("Guessed All of States Right 😎😎", font=("Arial", 20, "bold"))
 else:
     write_turtle.write("Learn, and be back to take rock!", font=("Arial", 20, "bold"))
