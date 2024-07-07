@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dae4fed-4fc1-4733-ac80-70c7c60798da" name="Changes" comment="" />
+    <list default="true" id="7dae4fed-4fc1-4733-ac80-70c7c60798da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Day 29) Password Manager/.idea/(Day 29) Password Manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../(Day 22) Ping Pong/.idea/Ping Pong (Day 22).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../(Day 22) Ping Pong/.idea/Ping Pong (Day 22).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../(Day 22) Ping Pong/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../(Day 22) Ping Pong/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Comprehension List &amp; Dict (Day 26).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Comprehension List &amp; Dict (Day 26).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../(Day 26) NATO Alphabet Comprehension/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../(Day 26) NATO Alphabet Comprehension/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2iii7aALnMYPlBxfMoLHNlU4FNM" />
   <component name="ProjectViewState">
@@ -18,7 +30,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/venki/PycharmProjects/Stocks"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/venki/Python-Projects/(Day 26) Comprehension List & Dict"
   }
 }]]></component>
   <component name="RunManager">
