@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Users\venki\Downloads\2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\Primary_Color_Count.csv">
           <value>
             <Attribute>
@@ -25,13 +18,6 @@
           </value>
         </entry>
         <entry key="\new_data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\squirrel_data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

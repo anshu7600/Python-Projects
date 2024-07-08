@@ -3,6 +3,7 @@ from tkinter import messagebox
 from random import randint, choice, shuffle
 import pyperclip
 import json
+import tkinter.ttk as tkstyle
 
 
 def generate_password():
@@ -104,11 +105,11 @@ password_entry = Entry(width=37, highlightthickness=1, highlightbackground="#DCD
                        bg="#FBFBFB")
 password_entry.place(x=144, y=248)
 
-generate_button = Button(text="Generate Password", bg="#FBFBFB", command=generate_password)
+generate_button = tkstyle.Button(text="Generate Password", command=generate_password)
 generate_button.place(x=374, y=247)
-generate_button = Button(text="Search", bg="#FBFBFB", command=get_data, width=14)
+generate_button = tkstyle.Button(text="Search", command=get_data, width=17)
 generate_button.place(x=374, y=197)
-add_button = Button(text="Add", width=48, bg="#FBFBFB", command=save_data)
+add_button = tkstyle.Button(text="Add", width=56, command=save_data)
 add_button.grid(column=1, row=4, columnspan=2, pady=12, padx=15)
 
 window.mainloop()
